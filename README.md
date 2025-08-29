@@ -12,23 +12,7 @@ It provides a beautiful shopping UI with authentication, product browsing, cart 
 - 🛒 Shopping cart & checkout flow  
 - 📦 Order tracking in user dashboard  
 - 🧑‍💼 Admin dashboard for managing users, products, and orders  
-- 🎨 Styled with Tailwind CSS  
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home](./public/screenshots/home.png)  
-
-### 🛍️ Product Details
-![Product Details](./public/screenshots/product-details.png)  
-
-### 🛒 Cart Page
-![Cart](./public/screenshots/cart.png)  
-
-### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](./public/screenshots/admin-dashboard.png)  
+- 🎨 Styled with Tailwind CSS
 
 ---
 
